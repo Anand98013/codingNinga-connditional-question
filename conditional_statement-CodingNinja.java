@@ -2,18 +2,6 @@
 the grade(an uppercase character), and depending upon which the total salary is calculated as - total salary = basic + hra + da + allow - pf 
 where: hra = 20% of basic, da=50% of basic, allow=1700 if grade = "A" allow=1500 if grade is "B" allow=1300 if grade is "C" or any other character pf = 11% of basic. */
 
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-
-
 
 
 import java.util.* ;
